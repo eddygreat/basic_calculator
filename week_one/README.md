@@ -17,4 +17,4 @@ This is a simple Python calculator program that allows users to perform basic ar
 - User-friendly prompts
 
 ## Author
-DizEmpires
+DizEmpires codes
